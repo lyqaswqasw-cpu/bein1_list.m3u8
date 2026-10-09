@@ -1,0 +1,17 @@
+#EXTM3U
+#EXT-X-VERSION:3
+
+#EXTINF:-1 tvg-id="beIN1" tvg-name="beIN SPORTS 1 FHD" tvg-logo="https://i.imgur.com/vH4X9yX.png" group-title="beIN Sports",beIN SPORTS 1 - FHD (1080p)
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/212364.m3u8
+
+#EXTINF:-1 tvg-id="beIN1" tvg-name="beIN SPORTS 1 HD" tvg-logo="https://i.imgur.com/vH4X9yX.png" group-title="beIN Sports",beIN SPORTS 1 - HD (720p)
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/212362.m3u8
+
+#EXTINF:-1 tvg-id="beIN1" tvg-name="beIN SPORTS 1 SD" tvg-logo="https://i.imgur.com/vH4X9yX.png" group-title="beIN Sports",beIN SPORTS 1 - SD (480p)
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/212350.m3u8
+
+#EXTINF:-1 tvg-id="beIN1" tvg-name="beIN SPORTS 1 Low" tvg-logo="https://i.imgur.com/vH4X9yX.png" group-title="beIN Sports",beIN SPORTS 1 - Low (360p)
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/212338.m3u8
+
+#EXTINF:-1 tvg-id="beIN1" tvg-name="beIN SPORTS 1 Backup" tvg-logo="https://i.imgur.com/vH4X9yX.png" group-title="beIN Sports",beIN SPORTS 1 - Backup Server
+http://eg1.top44.us/live/a4:30:7a:3a:e8:bf/494br7vg4c/212364.m3u8
